@@ -1,0 +1,71 @@
+body {
+    font-family: 'Anton', sans-serif;
+
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+}
+
+.bg-header {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding: 100px;
+
+}
+
+.flexible-container {
+    text-align: center;
+    color: lightgreen;
+}
+
+.donate-button {
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.fbox {
+    display: flex;
+    width: 40%;
+    height: auto;
+    background-color: aqua;
+    justify-content: center;
+
+}
+
+.box {
+    background: rgb(red, rgb(83, 215, 83), blue);
+    box-sizing: border-box;
+    height: 50%;
+    width: 100%;
+    margin: 20px;
+    font-size: 20px;
+    align-items: center;
+}
+
+.hr {
+    width: 50%;
+
+}
+
+.ncenter {
+    text-align: center;
+    color: grey;
+}
+
+.donate {
+    justify-content: center;
+}
