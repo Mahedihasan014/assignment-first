@@ -43,6 +43,7 @@ h1 {
     height: auto;
     background-color: aqua;
     justify-content: center;
+    text-align: center;
 
 }
 
@@ -53,7 +54,7 @@ h1 {
     width: 100%;
     margin: 20px;
     font-size: 20px;
-    align-items: center;
+    text-align: center;
 }
 
 .hr {
@@ -78,4 +79,24 @@ h1 {
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
 
+}
+
+#food-for-family {
+    background-position: left;
+}
+
+#shelter-for-family {
+    background-position-x: center;
+
+}
+
+#education-for-child {
+    background-position: right;
+}
+
+.footer {
+    text-align: center;
+    background-color:
+        height: 50px;
+    width: 50px;
 }
